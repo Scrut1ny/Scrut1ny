@@ -26,3 +26,5 @@ Welcome to my corner of the digital universe. I make random projects and hope ot
     ```
   * <img src="https://external-content.duckduckgo.com/ip3/www.getmonero.org.ico" width="16" height="16">  Monero (XMR)
     ```
+    8C86X64ZWqmPEx72hNyBm8Ls6VL5j2nUH1G7pU9p7MAF9gWP4Nj7bbm5zz8SHngC4CHArmKY4BdVnKcoDH6dT8mw7kL2u9S
+    ```
