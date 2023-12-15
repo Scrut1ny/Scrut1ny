@@ -9,6 +9,7 @@ Welcome to my corner of the digital universe. I make random projects and hope ot
 
 - ## Languages 📚
   * Python
+  * Powershell
   * Batch
 
 - ## Contact Me 📬
