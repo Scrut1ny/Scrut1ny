@@ -9,11 +9,13 @@
 ### 🛠️ Skills & Expertise
 In my toolkit, I have a broad range of skills that I continuously expand and refine. Here are some areas where I excel:
 
-- **Programming**: Crafting efficient, clean, and robust code.
-- **Scripting & Automation**: Streamlining workflows and processes for efficiency.
-- **Networking**: Understanding and implementing network configurations and security.
-- **Reverse Engineering**: Diving deep into existing technologies to understand and improve them.
-- **Optimizing**: Enhancing performance, making systems and code run smoother and faster.
+- **Programming & Scripting**: Crafting clean, efficient, and robust code across multiple languages.
+- **Automation**: Simplifying and enhancing workflows to save time and reduce errors.
+- **Networking**: Implementing secure and efficient network configurations.
+- **Reverse Engineering**: Unraveling the complexities of technologies to understand and improve them.
+- **Optimizing**: Boosting performance to make systems and applications run more effectively.
+- **Hypervisors**: Setting up and managing virtualized environments for development and testing.
+- **Hardware Knowledge & Computer Building**: From components selection to assembly, I enjoy building high-performance PCs tailored to specific needs.
 
 ### 📚 Programming Languages
 I'm proficient in several programming languages, each chosen for its unique strengths and capabilities in solving different problems:
