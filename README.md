@@ -17,6 +17,13 @@ In my toolkit, I have a broad range of skills that I continuously expand and ref
 - **Hypervisors**: Setting up and managing virtualized environments for development and testing.
 - **Hardware Knowledge & Computer Building**: From components selection to assembly, I enjoy building high-performance PCs tailored to specific needs.
 
+### 🎓 Certifications
+My commitment to professional development and continuous learning is demonstrated by the following certifications:
+
+- **CompTIA A+**: Recognizing essential IT operational roles and technical support.
+- **CompTIA IT Fundamentals (ITF+)**: Offering a broad understanding of the IT profession and various technology areas.
+- **AED/CPR Certification from the American Heart Association**: Certifying the ability to respond to cardiac emergencies, highlighting a dedication to health and safety beyond my technical skills.
+
 ### 📚 Programming Languages
 I'm proficient in several programming languages, each chosen for its unique strengths and capabilities in solving different problems:
 
