@@ -40,6 +40,11 @@ I'm proficient in several programming languages, each chosen for its unique stre
     05b0a4c3b4bdba1623311bfde5d9802098c61f049759ac579550e085cbe6e7832f
     ```
 
+    * <img src="https://external-content.duckduckgo.com/ip3/discord.com.ico" width="16" height="16">  Discord:
+    ```
+    null068975
+    ```
+
 ## Donations/Support ❤️
   * <img src="https://external-content.duckduckgo.com/ip3/z.cash.ico" width="16" height="16">  Zcash (ZEC)
     ```
