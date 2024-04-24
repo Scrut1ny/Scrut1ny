@@ -47,3 +47,8 @@ I'm proficient in several programming languages, each chosen for its unique stre
     ```
     8C86X64ZWqmPEx72hNyBm8Ls6VL5j2nUH1G7pU9p7MAF9gWP4Nj7bbm5zz8SHngC4CHArmKY4BdVnKcoDH6dT8mw7kL2u9S
     ```
+
+## Use uBO!
+![image](https://github.com/Scrut1ny/Scrut1ny/assets/53458032/508e97fa-7470-40fb-a335-a7e0a69c6b4a)
+
+- [uBO](https://ublockorigin.com/)
