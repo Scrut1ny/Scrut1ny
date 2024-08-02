@@ -27,11 +27,6 @@ I'm proficient in several programming languages, each chosen for its unique stre
 
 ## Contact Me 📬
   * Feel free to reach out, I'm always open to interesting conversations and collaborations.
-  
-    * <img src="https://external-content.duckduckgo.com/ip3/getsession.org.ico" width="16" height="16">  Session:
-    ```
-    05e86aaae70c50145fa3c669cbf382ba336782b1a99196e718f4110acf88c95062
-    ```
 
     * <img src="https://external-content.duckduckgo.com/ip3/discord.com.ico" width="16" height="16">  Discord:
     ```
