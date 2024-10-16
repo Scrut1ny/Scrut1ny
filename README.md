@@ -50,3 +50,11 @@ I'm proficient in several programming languages, each chosen for its unique stre
 ![image](https://github.com/Scrut1ny/Scrut1ny/assets/53458032/508e97fa-7470-40fb-a335-a7e0a69c6b4a)
 
 - [uBO](https://ublockorigin.com/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Scrut1ny&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Scrut1ny&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrut1ny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
