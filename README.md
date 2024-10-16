@@ -4,6 +4,7 @@
   I'm glad you've found your way here. This space is where I unleash my creativity and technical skills, crafting projects that span various aspects of technology. My hope is that you'll find something here that not only piques your interest but proves to be valuable to you.
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Scrut1ny&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ### 🛠️ Skills & Expertise
