@@ -9,21 +9,12 @@
 ### 🛠️ Skills
 I’ve got a mix of skills I keep improving. Here’s what I’m good at:
 
-- **Programming**: Writing clean, efficient code in different languages.
-- **Automation**: Streamlining tasks to save time and reduce mistakes.
-- **Networking**: Setting up secure and efficient networks.
-- **Reverse Engineering**: Figuring out how things work to learn and improve.
-- **Optimizing**: Making systems and apps run faster.
-- **Hypervisors**: Managing virtual machines for testing and development.
-- **Hardware & PC Building**: Building custom PCs for different needs.
+- **Programming**, **Automation**, **Networking**, **Reverse Engineering**, **Optimizing**, **Hypervisors**, **Hardware & PC Building**
 
 ### 📚 Programming Languages
-Here are the languages I use, each for different tasks:
+Here are the languages I use:
 
-- **Python**
-- **PowerShell**
-- **Batch**
-- **Bash**
+- **Python**, **PowerShell**, **Batch**, **Bash**
 
 ## Contact Me 📬
   * Feel free to reach out, I'm always open to interesting conversations and collaborations.
