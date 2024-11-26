@@ -50,7 +50,3 @@ Here are the languages I use, each for different tasks:
 ![image](https://github.com/Scrut1ny/Scrut1ny/assets/53458032/508e97fa-7470-40fb-a335-a7e0a69c6b4a)
 
 - [uBO](https://ublockorigin.com/)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
