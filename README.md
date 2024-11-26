@@ -4,7 +4,7 @@
   I’m into random things and enjoy making programs and guides. Hope you find something interesting or useful.
 </p>
 
----
+--
 
 ### 🛠️ Skills
 I’ve got a mix of skills I keep improving. Here’s what I’m good at:
