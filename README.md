@@ -6,16 +6,6 @@
 
 ---
 
-### 🛠️ Skills
-I’ve got a mix of skills I keep improving. Here’s what I’m good at:
-
-- **Programming**, **Automation**, **Networking**, **Reverse Engineering**, **Optimizing**, **Hypervisors**, **Hardware & PC Building**
-
-### 📚 Programming Languages
-Here are the languages I use:
-
-- **Python**, **PowerShell**, **Batch**, **Bash**
-
 ## Contact Me 📬
   * Feel free to reach out, I'm always open to interesting conversations and collaborations.
 
@@ -33,10 +23,3 @@ Here are the languages I use:
     ```
     8C86X64ZWqmPEx72hNyBm8Ls6VL5j2nUH1G7pU9p7MAF9gWP4Nj7bbm5zz8SHngC4CHArmKY4BdVnKcoDH6dT8mw7kL2u9S
     ```
-
-## Use uBO!
-- [Document Link](https://www.ic3.gov/Media/Y2022/PSA221221)
-
-![image](https://github.com/Scrut1ny/Scrut1ny/assets/53458032/508e97fa-7470-40fb-a335-a7e0a69c6b4a)
-
-- [uBO](https://ublockorigin.com/)
