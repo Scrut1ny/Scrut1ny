@@ -1,7 +1,7 @@
 <h1 align="center">Hello, friend. 👋</h1>
 
 <p align="center">
-  I’m into random things and enjoy making programs and guides. Hope you find something interesting or useful.
+  I enjoy making unique programs and guides. Hope you find something interesting or useful.
 </p>
 
 ---
