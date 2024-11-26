@@ -1,30 +1,30 @@
 <h1 align="center">Hello, friend. 👋</h1>
 
 <p align="center">
-  I'm glad you've found your way here. This space is where I unleash my creativity and technical skills, crafting projects that span various aspects of technology. My hope is that you'll find something here that not only piques your interest but proves to be valuable to you.
+  I’m into random things and enjoy making programs and guides. Hope you find something interesting or useful.
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Scrut1ny&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
-### 🛠️ Skills & Expertise
-In my toolkit, I have a broad range of skills that I continuously expand and refine. Here are some areas where I excel:
+### 🛠️ Skills
+I’ve got a mix of skills I keep improving. Here’s what I’m good at:
 
-- **Programming & Scripting**: Crafting clean, efficient, and robust code across multiple languages.
-- **Automation**: Simplifying and enhancing workflows to save time and reduce errors.
-- **Networking**: Implementing secure and efficient network configurations.
-- **Reverse Engineering**: Unraveling the complexities of technologies to understand and improve them.
-- **Optimizing**: Boosting performance to make systems and applications run more effectively.
-- **Hypervisors**: Setting up and managing virtualized environments for development and testing.
-- **Hardware Knowledge & Computer Building**: From components selection to assembly, I enjoy building high-performance PCs tailored to specific needs.
+- Programming: Writing clean, efficient code in different languages.
+- Automation: Streamlining tasks to save time and reduce mistakes.
+- Networking: Setting up secure and efficient networks.
+- Reverse Engineering: Figuring out how things work to improve them.
+- Optimizing: Making systems and apps run faster.
+- Hypervisors: Managing virtual machines for testing and development.
+- Hardware & PC Building: Building custom PCs for different needs.
 
 ### 📚 Programming Languages
-I'm proficient in several programming languages, each chosen for its unique strengths and capabilities in solving different problems:
+Here are the languages I use, each for different tasks:
 
-- **Python**: My go-to language for its versatility and readability, perfect for scripting, data analysis, and back-end development.
-- **PowerShell**: Leveraging this powerful scripting language for automating tasks in Windows environments.
-- **Batch Scripting**: Utilizing this for simpler Windows-based automation tasks.
-- **Bash Scripting**: My choice for Linux/Unix scripting, automating tasks, and managing systems.
+- Python: My main language for scripting, data work, and back-end tasks.
+- PowerShell: For automating things in Windows.
+- Batch: Simple automation for Windows.
+- Bash: For scripting and automating tasks on Linux/Unix.
 
 ## Contact Me 📬
   * Feel free to reach out, I'm always open to interesting conversations and collaborations.
@@ -50,11 +50,6 @@ I'm proficient in several programming languages, each chosen for its unique stre
 ![image](https://github.com/Scrut1ny/Scrut1ny/assets/53458032/508e97fa-7470-40fb-a335-a7e0a69c6b4a)
 
 - [uBO](https://ublockorigin.com/)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Scrut1ny&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Scrut1ny&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrut1ny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ### ✍️ Random Dev Quote
