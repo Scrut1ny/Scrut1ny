@@ -4,9 +4,6 @@
   I’m into random things and enjoy making programs and guides. Hope you find something interesting or useful.
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Scrut1ny&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
 ### 🛠️ Skills
 I’ve got a mix of skills I keep improving. Here’s what I’m good at:
 
